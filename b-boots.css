@@ -1,0 +1,31 @@
+.imghead {
+  width: 500px;
+  height: 350px;
+}
+.container {
+  background-color: #D7E889;
+}
+.row {
+  margin-bottom: 30px;
+}
+.col-sm-12 {
+  background-color: darkgrey;
+}
+.col-sm-6{
+  background-color: grey;
+}
+.col-lg-4 {
+  background-color: lightgrey;
+}
+.col-md-3 {
+  background-color: white;
+}
+body {
+  text-align: center;
+}
+.my-col {
+  padding-bottom: 30px;
+}
+img {
+  width: 150px;
+}

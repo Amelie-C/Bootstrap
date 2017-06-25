@@ -1,0 +1,44 @@
+.position {
+  position: fixed;
+  background-color: #0F2347;
+  left: 0px;
+  top: 0px;
+  height: 280px;
+  width: 100%;
+  z-index: 1000;
+}
+.position img {
+  text-align: left;
+  width: 180px;
+  height: 210px;
+  left: 300px;
+  z-index: 100;
+  vertical-align: middle;
+}
+.placeholder {
+  height: 200px;
+  width: 100%;
+}
+.staff {
+  text-align: center;
+}
+.font {
+  font-family: serif;
+  font-size: 30px;
+  font-weight: normal;
+  color: White;
+  text-align: center;
+  z-index: 100;
+  vertical-align: middle;
+}
+.text {
+  position: relative;
+
+}
+.text p {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0px;
+}
